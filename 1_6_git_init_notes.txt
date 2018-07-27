@@ -1,0 +1,8 @@
+"staging area":
+	By adding commands you only allowing files which is specified add commands
+	By commit command, you will only commit the changes within this staging area. 
+
+git init
+	This command will allow you to start git repository locally
+	If you want to connect with remote, make sure you made the empty remote repo for the simplicity
+	
